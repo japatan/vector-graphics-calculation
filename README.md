@@ -43,8 +43,8 @@ pip install numpy matplotlib
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/japatan/vector-graphics-calculation.git
+cd vector-graphics-calculation
 
 # Create and activate virtual environment
 python -m venv venv
